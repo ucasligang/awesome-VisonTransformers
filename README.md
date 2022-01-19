@@ -22,7 +22,7 @@ updating......
 # Self-supervied Vision Transformers as backbone models.
 Data|Method|Conference|Title|Code
 -----|----|-----|-----|-----
-2021-11-11|MAE|Arxiv|[Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377.pdf)|[MAE](https://github.com/facebookresearch/mae)
+2021-11-11|MAE|Arxiv 2021|[Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377.pdf)|[MAE](https://github.com/facebookresearch/mae)
 
 Todo:Moco v3, BeiT,MaskFeat
 
