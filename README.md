@@ -14,7 +14,7 @@ Data|Method|Conference|Title|Code
 2021-03-25|Swin|ICCV 2021|[Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030v2.pdf)|[Swin-Transformer](https://github.com/microsoft/Swin-Transformer)
 2021-04-21|MViT|ICCV2021|[Multiscale Vision Transformers](https://arxiv.org/pdf/2104.11227.pdf)|[MViT](https:/github.com/facebookresearch/SlowFast)
 2021-06-11|Twins|Arxiv 2021|[Twins: Revisiting the Design of Spatial Attention in Vision Transformers](https://arxiv.org/abs/2104.13840)|[Twins](https://github.com/Meituan-AutoML/Twins)
-2021-12-2|MViT v2|Arxiv 2021|[Improved Multiscale Vision Transformers for Classification and Detection](https://arxiv.org/pdf/2112.01526.pdf)| None
+2021-12-02|MViT v2|Arxiv 2021|[Improved Multiscale Vision Transformers for Classification and Detection](https://arxiv.org/pdf/2112.01526.pdf)| None
 updating......
 
 
