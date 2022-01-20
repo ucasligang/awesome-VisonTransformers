@@ -25,8 +25,7 @@ updating......
 Data|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2021-11-11|MAE|Arxiv 2021|[Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377.pdf)|[MAE](https://github.com/facebookresearch/mae)
-2022-01-19|RePre|Arxiv 2022|[RePre: Improving Self-Supervised Vision Transformer with
-Reconstructive Pre-training](https://arxiv.org/pdf/2111.06377.pdf)|None
+2022-01-19|RePre|Arxiv 2022|[RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training](https://arxiv.org/pdf/2111.06377.pdf)|None
 
 Todo:Moco v3, BeiT,MaskFeat,iBoT,DINO
 
