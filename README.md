@@ -1,7 +1,7 @@
 Reading list for research topics in Vison Transformers.
 
 We list the most popular methods for Vision Transformer, if I missed something, please submit a request.
-(Note: We show the date of the first version of Arxiv here. But the link of paper is the lastest.)
+(Note: We show the date of the first version of Arxiv here. But the link of paper is the lastest version.)
 
 
 ## Supervied Vision Transformers as backbone models.
