@@ -4,7 +4,7 @@ We list the most popular methods for Vision Transformer, if I missed something, 
 (Note: We show the date of the first version of Arxiv here. But the link of paper is the lastest.)
 
 
-# Supervied Vision Transformers as backbone models.
+## Supervied Vision Transformers as backbone models.
 
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
@@ -18,13 +18,13 @@ Date|Method|Conference|Title|Code
 2021-12-02|MViT v2|Arxiv 2021|[Improved Multiscale Vision Transformers for Classification and Detection](https://arxiv.org/pdf/2112.01526.pdf)| None
 updating......
 
-# Supervied Vision Transformers as specific models.
+## Supervied Vision Transformers as specific models.
 Image Synthesis:
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2020-12-17|Taming Transformer|CVPR 2021(Oral)|[Taming Transformers for High-Resolution Image Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)|[TamingTransformer](https://github.com/CompVis/taming-transformers)
 
-# Self-supervied Vision Transformers as backbone models.
+## Self-supervied Vision Transformers as backbone models.
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2021-11-11|MAE|Arxiv 2021|[Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377.pdf)|[MAE](https://github.com/facebookresearch/mae)
@@ -32,7 +32,7 @@ Date|Method|Conference|Title|Code
 
 Todo:Moco v3, BeiT,MaskFeat,iBoT,DINO
 
-# Surveys
+## Surveys
 
 Date|Conference|Title|
 -----|----|-----
