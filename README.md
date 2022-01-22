@@ -22,7 +22,7 @@ updating......
 Image Synthesis:
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
-2020-10-22|Taming Transformer|CVPR 2021(Oral)|[Taming Transformers for High-Resolution Image Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)|[TamingTransformer](https://github.com/CompVis/taming-transformers)
+2020-12-17|Taming Transformer|CVPR 2021(Oral)|[Taming Transformers for High-Resolution Image Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)|[TamingTransformer](https://github.com/CompVis/taming-transformers)
 
 # Self-supervied Vision Transformers as backbone models.
 Date|Method|Conference|Title|Code
