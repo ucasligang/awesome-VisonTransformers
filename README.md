@@ -16,7 +16,7 @@ Date|Method|Conference|Title|Code
 2021-04-21|MViT|ICCV2021|[Multiscale Vision Transformers](https://arxiv.org/pdf/2104.11227.pdf)|[MViT](https:/github.com/facebookresearch/SlowFast)
 2021-06-11|Twins|Arxiv 2021|[Twins: Revisiting the Design of Spatial Attention in Vision Transformers](https://arxiv.org/abs/2104.13840)|[Twins](https://github.com/Meituan-AutoML/Twins)
 2021-12-02|MViT v2|Arxiv 2021|[Improved Multiscale Vision Transformers for Classification and Detection](https://arxiv.org/pdf/2112.01526.pdf)| None
-2021-12-24|SimViT|Arxiv 2021|[SimViT: Exploring a Simple Vision Transformer with sliding windows](https://arxiv.org/pdf/2112.13085.pdf)| [SimViT](https://github.com/ucasligang/SimViT)
+2021-12-24|SimViT|Arxiv 2021|[SimViT: Exploring a Simple Vision Transformer with sliding windows](https://arxiv.org/pdf/2112.13085.pdf)|[SimViT](https://github.com/ucasligang/SimViT)
 updating......
 
 ## Supervied Vision Transformers as specific models.
@@ -24,8 +24,7 @@ Image Synthesis:
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2020-12-17|Taming Transformer|CVPR 2021(Oral)|[Taming Transformers for High-Resolution Image Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)|[TamingTransformer](https://github.com/CompVis/taming-transformers)
-2021-xx-xx|TransGAN|NeurIPS 2021|[TransGAN: Two Pure Transformers Can Make One
-Strong GAN, and That Can Scale Up](https://proceedings.neurips.cc/paper/2021/file/7c220a2091c26a7f5e9f1cfb099511e3-Paper.pdf)|[TransGAN](https://github.com/VITA-Group/TransGAN)
+2021-xx-xx|TransGAN|NeurIPS 2021|[TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up](https://proceedings.neurips.cc/paper/2021/file/7c220a2091c26a7f5e9f1cfb099511e3-Paper.pdf)|[TransGAN](https://github.com/VITA-Group/TransGAN)
 
 ## Self-supervied Vision Transformers as backbone models.
 Date|Method|Conference|Title|Code
