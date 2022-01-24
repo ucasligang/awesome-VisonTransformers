@@ -24,6 +24,8 @@ Image Synthesis:
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2020-12-17|Taming Transformer|CVPR 2021(Oral)|[Taming Transformers for High-Resolution Image Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)|[TamingTransformer](https://github.com/CompVis/taming-transformers)
+2021-xx-xx|TransGAN|NeurIPS 2021|[TransGAN: Two Pure Transformers Can Make One
+Strong GAN, and That Can Scale Up](https://proceedings.neurips.cc/paper/2021/file/7c220a2091c26a7f5e9f1cfb099511e3-Paper.pdf)|[TransGAN](https://github.com/VITA-Group/TransGAN)
 
 ## Self-supervied Vision Transformers as backbone models.
 Date|Method|Conference|Title|Code
