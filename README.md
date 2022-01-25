@@ -34,7 +34,7 @@ Date|Method|Conference|Title|Code
 2022-01-19|RePre|Arxiv 2022|[RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training](https://arxiv.org/pdf/2201.06857.pdf)|None
 
 
-Todo:Moco v3, BeiT,MaskFeat,iBoT,DINO
+Todo:BeiT,MaskFeat,iBoT,DINO
 
 ## Surveys
 
