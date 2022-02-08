@@ -38,7 +38,7 @@ Date|Method|Conference|Title|Code
 2021-12-16|MaskFeat|Arxiv 2021|[Masked Feature Prediction for Self-Supervised Visual Pre-Training](https://arxiv.org/pdf/2112.09133.pdf)|None
 2021-12-20|SplitMask|Arxiv 2021|[Are Large-scale Datasets Necessary for Self-Supervised Pre-training?](https://arxiv.org/pdf/2112.10740.pdf)|None
 2022-01-19|RePre|Arxiv 2022|[RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training](https://arxiv.org/pdf/2201.06857.pdf)|None
-2021-02-07|CAE|Arxiv 2022|[Context Autoencoder for Self-Supervised Representation Learning](https://arxiv.org/pdf/2202.03026.pdf)|None
+2022-02-07|CAE|Arxiv 2022|[Context Autoencoder for Self-Supervised Representation Learning](https://arxiv.org/pdf/2202.03026.pdf)|None
 
 Todo:iBoT,DINO
 
