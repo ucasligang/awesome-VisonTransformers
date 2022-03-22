@@ -46,7 +46,7 @@ Todo:iBoT,DINO
 
 Date|Conference/journal|Title|
 -----|----|-----
-2020-12-23 (latest version: 2021-08-12)|None|[A Survey on Vision Transformer](https://arxiv.org/pdf/2012.12556.pdf)
+2020-12-23 (latest version: 2021-08-12)|TPAMI|[A Survey on Vision Transformer](https://arxiv.org/pdf/2012.12556.pdf)
 2021-01-04 (latest version: 2022-01-19)|ACM Computing Surveys|[Transformers in vision: A survey](https://arxiv.org/pdf/2101.01169.pdf)
 
 
