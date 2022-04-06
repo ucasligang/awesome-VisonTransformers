@@ -16,8 +16,10 @@ Date|Method|Conference|Title|Code
 2021-04-21|MViT|ICCV2021|[Multiscale Vision Transformers](https://arxiv.org/pdf/2104.11227.pdf)|[MViT](https:/github.com/facebookresearch/SlowFast)
 2021-06-04|RegionViT|ICLR 2022|[RegionViT: Regional-to-Local Attention for Vision Transformers](https://arxiv.org/abs/2106.02689)|[RegionViT](https://github.com/ibm/regionvit)
 2021-06-11|Twins|Arxiv 2021|[Twins: Revisiting the Design of Spatial Attention in Vision Transformers](https://arxiv.org/abs/2104.13840)|[Twins](https://github.com/Meituan-AutoML/Twins)
+2021-11-30|Shunted-Transformer|Arxiv 2021|[Shunted Self-Attention via Multi-Scale Token Aggregation](https://arxiv.org/pdf/2112.13085.pdf)|[Shunted-Transformer](https://github.com/OliverRensu/Shunted-Transformer)
 2021-12-02|MViT v2|Arxiv 2021|[Improved Multiscale Vision Transformers for Classification and Detection](https://arxiv.org/pdf/2112.01526.pdf)| None
 2021-12-24|SimViT|Arxiv 2021|[SimViT: Exploring a Simple Vision Transformer with sliding windows](https://arxiv.org/pdf/2112.13085.pdf)|[SimViT](https://github.com/ucasligang/SimViT)
+
 updating......
 
 ## Supervied Vision Transformers as specific models.
