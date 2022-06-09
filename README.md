@@ -19,6 +19,7 @@ Date|Method|Conference|Title|Code
 2021-11-30|Shunted-Transformer|Arxiv 2021|[Shunted Self-Attention via Multi-Scale Token Aggregation](https://arxiv.org/pdf/2112.13085.pdf)|[Shunted-Transformer](https://github.com/OliverRensu/Shunted-Transformer)
 2021-12-02|MViT v2|Arxiv 2021|[Improved Multiscale Vision Transformers for Classification and Detection](https://arxiv.org/pdf/2112.01526.pdf)| None
 2021-12-24|SimViT|Arxiv 2021|[SimViT: Exploring a Simple Vision Transformer with sliding windows](https://arxiv.org/pdf/2112.13085.pdf)|[SimViT](https://github.com/ucasligang/SimViT)
+2022-06-02|SimViT|Arxiv 2022|[EfficientFormer: Vision Transformers at MobileNet Speed](https://arxiv.org/pdf/2206.01191.pdf)|[EfficientFormer](https://github.com/snap-research/EfficientFormer)
 
 updating......
 
