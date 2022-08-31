@@ -52,5 +52,6 @@ Date|Conference/journal|Title|
 -----|----|-----
 2020-12-23 (latest version: 2021-02-23)|TPAMI|[A Survey on Vision Transformer](https://arxiv.org/pdf/2012.12556.pdf)
 2021-01-04 (latest version: 2022-01-19)|ACM Computing Surveys|[Transformers in vision: A survey](https://arxiv.org/pdf/2101.01169.pdf)
+2021-05-10 (latest version: 2022-08-06)|Knowledge-Based Systems|[Vision transformers for dense prediction: A survey](https://www.sciencedirect.com/science/article/pii/S0950705122007821)
 
 
